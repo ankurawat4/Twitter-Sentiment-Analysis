@@ -11,10 +11,10 @@ Text Preprocessing Steps:
 
 
 Word Cloud (Fig_1)
-![alt text](https://github.com/ankurawat/Twitter-Sentiment-Analysis/blob/master/Fig_1.png)
+![alt text](https://github.com/ankurawat4/Twitter-Sentiment-Analysis/blob/master/Fig_1.png)
 
 This Project uses Bag of Words Model
 and MultinomialNB classifier for classification.
 
 classification report: (Fig_2)
-![alt text](https://github.com/ankurawat/Twitter-Sentiment-Analysis/blob/master/Fig_1.png)
+![alt text](https://github.com/ankurawat4/Twitter-Sentiment-Analysis/blob/master/Fig_2.png)
