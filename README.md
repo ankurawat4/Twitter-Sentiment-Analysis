@@ -2,10 +2,10 @@
 This Project is based on the text processing of tweets and then predicting their Sentiment.
 
 Text Preprocessing Steps:
-1) removal of punctuation, special characters
-2) lower or upper case
+1) Removal of punctuation, special characters
+2) Lower or upper case
 3) Tokenization
-4) stemming
+4) Stemming
 5) Lemmatization
 
 
